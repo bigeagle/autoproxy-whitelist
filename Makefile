@@ -1,2 +1,2 @@
 all:
-	base64 < autoproxy-whitelist.raw.txt > autoproxy-whitelist.txt
+	openssl base64 -e -in autoproxy-whitelist.raw.txt -out autoproxy-whitelist.txt
