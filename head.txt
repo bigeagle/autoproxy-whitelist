@@ -1,0 +1,6 @@
+[AutoProxy 0.2.9]
+! Expires: 6h
+! Autoproxy_Whitelist
+! Base on https://github.com/pentie/gfw_whitelist
+! https://github.com/autoproxy-whitelist/autoproxy-whitelist
+! https://github.com/felixonmars/dnsmasq-china-list
